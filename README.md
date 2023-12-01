@@ -10,7 +10,7 @@
 
 ## Link to the app
 
-[Click to open the app]()
+[Click to open the app](https://admin-panel-7aib.onrender.com/)
 
 ## Installing locally
 
